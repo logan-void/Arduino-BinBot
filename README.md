@@ -36,12 +36,12 @@ AutoBinBot is an Arduino-powered smart trash bin designed to enhance waste manag
 ## 🛠 Setup & Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/eleazartuazon/AutoBinBot-Arduino.git
+   git clone https://github.com/logan-void/Arduino-BinBot
    ```
 2. Open the `.ino` file in **Arduino IDE**.
 3. Connect the Arduino board and upload the code.
 4. Power up the system and test the motion sensor functionality.
 
 ## 📬 Contact
-📧 Email: eleazartuazon1d@gmail.com        
-🔗 LinkedIn: https://www.linkedin.com/in/eleazartuazon/
+📧 Email: superfreelancer303@gmail.com        
+🔗 LinkedIn: https://www.linkedin.com/in/logan-void/
